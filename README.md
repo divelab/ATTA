@@ -10,7 +10,7 @@
 This is the official implementation of the ICLR 2024 accepted paper: Active Test-Time Adaptation: Theoretical Analyses and An Algorithm.
 
 ## News
-- Code published [Mar 12th, 2024]
+- Code released [Mar 12th, 2024]
 
 ## Table of Contents
 - [Introduction](#introduction)
