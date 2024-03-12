@@ -1,0 +1,13 @@
+includes:
+  - base.yaml
+atta:
+  name: EATA
+  episodic: False
+  EATA:
+    steps: 1
+    lr: 1e-4
+    d_margin: 0.5
+    fisher_alpha: 2000.0
+num_workers: 8
+
+

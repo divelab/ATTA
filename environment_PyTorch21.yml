@@ -1,0 +1,17 @@
+name: ATTA21
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - ca-certificates
+  - openssl
+  - scikit-learn=1.2.2
+  - certifi
+  - tqdm
+  - pandas
+  - tensorboard
+  - matplotlib

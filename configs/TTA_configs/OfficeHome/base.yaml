@@ -1,0 +1,32 @@
+includes:
+  - ../base.yaml
+model:
+  model_layer: 3
+  global_pool: mean
+  dropout_rate: 0
+  name: ResNet
+#  resnet18: True
+  freeze_bn: True
+train:
+#  lr: 1e-4
+  lr: 5e-5
+  mile_stones: [ 300 ]
+  gamma: 0.1
+  log_interval: 100
+  train_bs: 16
+  val_bs: 16
+  test_bs: 16
+  weight_decay: 0.
+#  max_iters: 3000
+  max_iters: 10000
+  max_epoch: 300
+atta:
+  name: AlgBase
+  batch_size: 16
+ood:
+  alg: ERM
+  ood_param: -1.
+dataset:
+  name: OfficeHome
+  test_envs: [3, 0, 1, 2]
+num_workers: 8

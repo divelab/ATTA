@@ -1,0 +1,12 @@
+includes:
+  - base.yaml
+atta:
+  name: CoTTA
+  episodic: False
+  SAR:
+    steps: 1
+    reset_constant_em: 0.1
+    lr: 1e-3
+num_workers: 2
+
+

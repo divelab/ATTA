@@ -1,0 +1,21 @@
+includes:
+  - base.yaml
+atta:
+  name: SimATTA
+  episodic: False
+  budgets: 100
+  batch_size: 100
+  SimATTA:
+    steps: 30
+    lr: 1e-3
+    eh: 1e-2
+    el: 1e-4
+    cold_start: 0
+    nc_increase: 1
+    beta: 0
+    stop_tol: 5
+    target_cluster: 1
+    LE: 1
+num_workers: 8
+
+

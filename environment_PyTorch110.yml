@@ -1,0 +1,16 @@
+name: ATTA110
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - torchvision
+  - torchaudio
+  - pytorch
+  - cudatoolkit=11.3
+  - pyg
+  - rdkit
+  - nodejs
+  - nbresuse
+  - dpcpp_cpp_rt=2023.1
+  - ipympl
+  - jupyterlab

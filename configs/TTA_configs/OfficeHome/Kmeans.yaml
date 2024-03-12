@@ -1,0 +1,14 @@
+includes:
+  - base.yaml
+atta:
+  name: Kmeans
+  episodic: False
+  budgets: 300
+  SimATTA:
+    steps: 3000
+    lr: 1e-4
+    eh: 0.2
+    el: 1e-3
+num_workers: 8
+
+

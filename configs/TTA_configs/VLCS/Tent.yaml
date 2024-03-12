@@ -1,0 +1,11 @@
+includes:
+  - base.yaml
+atta:
+  name: Tent
+  episodic: False
+  Tent:
+    steps: 1
+    lr: 1e-3
+num_workers: 8
+
+
