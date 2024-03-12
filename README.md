@@ -1,6 +1,6 @@
 # Active Test-Time Adaptation: Theoretical Analyses and An Algorithm
 
-[![Static Badge](https://img.shields.io/badge/ICLR-ATTA-orange)](https://openreview.net/forum?id=YHUGlwTzFB)
+[![Static Badge](https://img.shields.io/badge/ICLR-2024-orange)](https://openreview.net/forum?id=YHUGlwTzFB)
 [![License][license-image]][license-url]
 
 [license-url]: https://github.com/divelab/ATTA/blob/main/LICENSE
