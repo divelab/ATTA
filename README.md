@@ -25,6 +25,8 @@ We provide a learning theory analysis, demonstrating that incorporating limited 
 We introduce a simple yet effective ATTA algorithm, known as SimATTA, using real-time sample selection techniques. 
 Extensive experimental results confirm consistency with our theoretical analyses and show that the proposed ATTA method yields substantial performance improvements over TTA methods while maintaining efficiency and shares similar effectiveness to the more demanding active domain adaptation (ADA) methods.
 
+![Framework](/docs/imgs/ATTA.pdf)
+
 ## Installation
 
 - Ubuntu 20.04
