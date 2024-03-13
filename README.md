@@ -1,14 +1,16 @@
 # Active Test-Time Adaptation: Theoretical Analyses and An Algorithm
 
-[![Static Badge](https://img.shields.io/badge/ICLR-ATTA-orange)](https://openreview.net/forum?id=YHUGlwTzFB)
+[![Static Badge](https://img.shields.io/badge/ICLR-2024-orange)](https://openreview.net/forum?id=YHUGlwTzFB)
 [![License][license-image]][license-url]
 
 [license-url]: https://github.com/divelab/ATTA/blob/main/LICENSE
 [license-image]:https://img.shields.io/badge/license-GPL3.0-green.svg
 
-----------------------------
 
 This is the official implementation of the ICLR 2024 accepted paper: Active Test-Time Adaptation: Theoretical Analyses and An Algorithm.
+
+## News
+- Code released [Mar 12th, 2024]
 
 ## Table of Contents
 - [Introduction](#introduction)
